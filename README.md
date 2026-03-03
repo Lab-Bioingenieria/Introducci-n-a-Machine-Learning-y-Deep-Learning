@@ -4,7 +4,7 @@ Este repositorio contiene una serie de recursos, guías y notebooks interactivos
 
 ---
 
-## 📂 Contenido de los Archivos
+## Contenido de los Archivos
 
 A continuación se detalla el propósito de cada uno de los archivos incluidos:
 
@@ -17,7 +17,7 @@ A continuación se detalla el propósito de cada uno de los archivos incluidos:
 
 ---
 
-## 🚀 Instrucciones para usar Google Colab en Visual Studio Code
+## Instrucciones para usar Google Colab en Visual Studio Code
 
 Visual Studio Code (VS Code) tiene la capacidad de funcionar comodamente como un cliente (frontend) que ejecuta su código de Python en un entorno súper-potente alojado en Google Colab, permitiéndote aprovechar GPUs gratuitas sin salir de tu editor favorito.
 
