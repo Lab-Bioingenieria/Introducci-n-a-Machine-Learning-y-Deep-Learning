@@ -57,47 +57,10 @@ Si prefieres usar la interfaz web de Google Colab, pero que el código corra en 
 4. Ve al navegador a Google Colab. En la parte superior derecha donde dice **"Conectar"**, dale click a la flecha hacia abajo y selecciona **"Conectarse a un entorno de ejecución local"**.
 5. Allí pegas el link que arrojó tu terminal (el que tiene `?token=...`) y se vinculará para leer tus archivos y ejecutar tu proceso localmente manteniendo la UI de Colab.
 
-Welcome to fish, the friendly interactive shell
-Type help for instructions on how to use fish
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~> git clone git@github.com:Lab-Bioingenieria/practicas-comunitarias-PAOII.git
-Cloning into 'practicas-comunitarias-PAOII'...
-ssh: connect to host github.com port 22: Connection refused
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~ [128]> ls
-Arduino/  Desktop/  Documents/  Downloads/  Music/  Pictures/  Public/  Templates/  Videos/  home/  snap/  subir.sql
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~> git clone git@github.com:Lab-Bioingenieria/practicas-comunitarias-PAOII.git
-Cloning into 'practicas-comunitarias-PAOII'...
-ssh: connect to host github.com port 22: Connection refused
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~ [128]> git clone git@github.com:KevinFernandez21/v0-mobile-therapy-app.git
-Cloning into 'v0-mobile-therapy-app'...
-ssh: connect to host github.com port 22: Connection refused
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~ [128]> git clone git@github.com:KevinFernandez21/v0-mobile-therapy-app.git
-Cloning into 'v0-mobile-therapy-app'...
-ssh: connect to host github.com port 22: Connection refused
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~ [128]> cd Desktop/
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~/Desktop> git clone git@github.com:KevinFernandez21/v0-mobile-therapy-app.git
-
-Cloning into 'v0-mobile-therapy-app'...
-ssh: connect to host github.com port 22: Connection refused
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-hombrenaranja@hombrenaranja-Lenovo-V14-G2-ALC ~/Desktop [128]>
-
 > **Importante:** Recuerda que las sesiones de Colab en la nube son temporales. Si cargas tus archivos directamente al Colab remoto (Método 1 sin montar tu Drive o Repositorio de GitHub), **procura descargar o hacer Push a GitHub tus cambios antes de cerrar la sesión** o perderás las ediciones de tus Notebooks.
+
+---
+
+## Créditos
+
+* **Autor / Colaborador:** Kevin Fernández Sánchez
